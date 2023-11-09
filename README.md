@@ -21,3 +21,6 @@ Durante este curso trabajaremos los siguientes temas:
   - La seguridad en el trabajo
 
 Espero que este curso os resulte interesante y divertido.
+
+### Enlace Classroom
+https://classroom.github.com/classrooms/149103980-ull-mfp-aet-2324-alu0100773231
